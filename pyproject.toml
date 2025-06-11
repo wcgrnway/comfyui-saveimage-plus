@@ -1,14 +1,14 @@
 [project]
 name = "comfyui-saveimage-plus"
 description = "Save Image Plus is a custom node for ComfyUI that allows you to save images in JPEG and WEBP formats with optional metadata embedding."
-version = "1.0.0"
+version = "1.0.1"
 license = { file = "LICENSE" }
 
 [project.urls]
-Repository = "https://github.com/Goktug/comfyui-saveimage-plus"
+Repository = "https://github.com/wcgrnway/comfyui-saveimage-plus"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "goktug"
+PublisherId = "wcgrnway"
 DisplayName = "comfyui-saveimage-plus"
 Icon = ""
