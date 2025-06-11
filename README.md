@@ -19,6 +19,10 @@ git clone https://github.com/Goktug/comfyui-saveimage-plus
 
 This version of SaveImagePlus has been extended to support:
 
+![SaveImagePlusDynamic Node](docs/revised_node_ui.jpg)
+
+![SaveImagePlusDynamic Node](docs/console_log.jpg)
+
   CROSS DRIVE SUPPORT!  You can save in a different drive than where ComfyUI is installed.
   
   Note: To maintain preview capabilities a duplicate file is stored in the ComfyUI 
